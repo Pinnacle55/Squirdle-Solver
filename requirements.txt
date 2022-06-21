@@ -3,6 +3,5 @@ gunicorn
 django-heroku
 numpy
 pandas
-time
 collections
 scipy.stats
